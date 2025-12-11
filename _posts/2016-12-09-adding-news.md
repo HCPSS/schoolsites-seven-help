@@ -14,11 +14,11 @@ Any news that you would post in your newsletter should also live on the site.
 
 To add a news item, go to your dashboard.
 
-![dashboard image](/schoolsites-help/images/dashboard.png)
+![dashboard image](/schoolsites-seven-help/images/dashboard.png)
 
 In the dashboard, go to "add message".
 
-![add message button image](/schoolsites-help/images/news/add-message.png)
+![add message button image](/schoolsites-seven-help/images/news/add-message.png)
 
 From there, you can add a title.
 

@@ -12,13 +12,13 @@ If you're using a Google calendar on your site, then make all event updates thro
 
 To add a new event to your site calendar, click on "add event" on your dashboard.
 
-![](/schoolsites-help/images/news/add-event.png)
+![](/schoolsites-seven-help/images/news/add-event.png)
 
 From there, you can add a title. Be descriptive, but keep it concise.
 
 Next, add the date range. Events can be all day (tests, field days) or a specific timeframe (meetings, dances).
 
-![](/schoolsites-help/images/news/edit-event.png)
+![](/schoolsites-seven-help/images/news/edit-event.png)
 
 If your event has a start and end time, keep the "show end date" box checked off. Then, enter in the timeframe.
 
@@ -30,4 +30,4 @@ Add a description if you'd like to; a few sentences is sufficient.
 
 Be sure to save your work to push the event live, which will send it directly to your site's calendar and the HCPSS mobile application.
 
-![](/schoolsites-help/images/news/save-event.png)
+![](/schoolsites-seven-help/images/news/save-event.png)

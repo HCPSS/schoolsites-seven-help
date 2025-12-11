@@ -14,11 +14,11 @@ Typically, you will delete the node from where it was formerly stored. However, 
 
 Successfully moving a node from one place to another can be done by clicking on "add existing node" (or "add existing" followed by the content type) and then searching for what you've titled it on your site.
 
-![add existing](/schoolsites-help/images/uploading/existing-node.png)
+![add existing](/schoolsites-seven-help/images/uploading/existing-node.png)
 
 After the "add existing" area opens up, search for the name of the pre-existing node you'd like to add.
 
-![search node](/schoolsites-help/images/uploading/search-existing.png)
+![search node](/schoolsites-seven-help/images/uploading/search-existing.png)
 
 <blockquote>
   <p><strong>Elementary/Middle Schools: </strong>nodes can only be moved around within their "families." For instance, a staff node cannot go on the news page, and a news node cannot go on the link resources page.<p>

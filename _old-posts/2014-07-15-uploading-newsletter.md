@@ -8,11 +8,11 @@ category: news
 
 Click on "add newsletter" from your dashboard. This should be located to the right of your news messages admin area.
 
-![add newsletter](/schoolsites-help/images/newsletter/add-newsletter.png)
+![add newsletter](/schoolsites-seven-help/images/newsletter/add-newsletter.png)
 
 Select "newsletters"
 
-![select newsletter](/schoolsites-help/images/newsletter/newsletter-selection.png)
+![select newsletter](/schoolsites-seven-help/images/newsletter/newsletter-selection.png)
 
 Give it a descriptive title. For example, "EFES Newsletter - 1/23/2014"
 
@@ -22,6 +22,6 @@ The published date should be the date you intended the newsletter to be released
 
 After naming it, attach the newsletter.
 
-![name and upload](/schoolsites-help/images/newsletter/name-and-upload.png)
+![name and upload](/schoolsites-seven-help/images/newsletter/name-and-upload.png)
 
 Click save, or "save and add another" if you have more newsletters to upload.

@@ -12,10 +12,10 @@ These typically make up the "student services" pages on high school sites and th
 
 You'll know it's a page section that's editable if you hover over it and see the editing cog appear.
 
-![edit page section](/schoolsites-help/images/pages/edit-page-section.png)
+![edit page section](/schoolsites-seven-help/images/pages/edit-page-section.png)
 
 Click on "edit" to open up the text editor for that page section.
 
-**Editing content on your site** is the same across all content types. [Learn more about editing content &rarr;](/schoolsites-help/edit/2014/07/15/editing-page/)
+**Editing content on your site** is the same across all content types. [Learn more about editing content &rarr;](/schoolsites-seven-help/edit/2014/07/15/editing-page/)
 
 Once you've finished editing the content, don't forget to save.

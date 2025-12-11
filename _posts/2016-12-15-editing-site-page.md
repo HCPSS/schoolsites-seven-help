@@ -10,14 +10,14 @@ Pages are typically under the various tabs in your navigation.
 
 For instance, if you wanted to get to the editing screen for your school improvement plan, navigate to the school improvement plan page.
 
-![access menu](/schoolsites-help/images/pages/edit-sip-menu.png)
+![access menu](/schoolsites-seven-help/images/pages/edit-sip-menu.png)
 
 Then, click on "edit" to get to the content of the page, which will allow you to edit the contents of the page.
 
-![edit button on page](/schoolsites-help/images/pages/edit-sip.png)
+![edit button on page](/schoolsites-seven-help/images/pages/edit-sip.png)
 
 Editing pages is the same as editing content on any other part of the site.
 
-- **Not sure how to use the toolbar? View the [help topic &rarr;](/schoolsites-help/edit/2014/07/15/editing-page/)**
+- **Not sure how to use the toolbar? View the [help topic &rarr;](/schoolsites-seven-help/edit/2014/07/15/editing-page/)**
 
 Once you've finished editing the content, don't forget to save.
