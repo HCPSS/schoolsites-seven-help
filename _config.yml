@@ -1,0 +1,7 @@
+# Site settings
+title: School Site Documentation
+baseurl: "/schoolsites-help"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
