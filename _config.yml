@@ -1,6 +1,6 @@
 # Site settings
 title: School Site Documentation
-baseurl: "/schoolsites-help"
+baseurl: "/schoolsites-seven-help"
 
 # Build settings
 markdown: kramdown
